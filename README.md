@@ -27,4 +27,5 @@ This will create a file called "aracne_network_edges.csv" in the current working
 
 
 ##### Output 
+Output visualization is performed using R package [igraph](http://igraph.org/r/)
 <img src="images/NetworkFigureWebsite.jpg" alt="hi" class="inline"/>
