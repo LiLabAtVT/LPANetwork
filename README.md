@@ -20,4 +20,4 @@ Input data include gene expression from a time series experiment or multiple tis
 Name the input data as TFandModule.csv, run the R code using Rstudio or Rscript command.
 
 ##### Output 
-![Gene Regulatory Network](images/NetworkFigureWebsite.jpg)
+<img src="images/NetworkFigureWebsite.jpg" alt="hi" class="inline"/>
