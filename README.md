@@ -10,7 +10,7 @@ Context Likelihood Relatedness (CLR)
 Least Angle Regression (LARS)
 Partial Correlation (PCOR)
 
-![Machine Learning Methods](/images/Figure1_website.png)
+![Machine Learning Methods](images/Figure1_website.png)
 
 #### Usage
 ##### Input data
@@ -20,4 +20,4 @@ Input data include gene expression from a time series experiment or multiple tis
 Name the input data as TFandModule.csv, run the R code using Rstudio or Rscript command.
 
 ##### Output 
-![Gene Regulatory Network](/images/NetworkFigureWebsite.jpg)
+![Gene Regulatory Network](images/NetworkFigureWebsite.jpg)
